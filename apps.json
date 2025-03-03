@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "id": 1,
+      "name": "Тест",
+      "version": "1.0",
+      "description": "Лучшее приложение для вас",
+      "icon_url": "https://i.pinimg.com/564x/d8/b1/c4/d8b1c4a62b80f8310aad578cf957f176.jpg",
+      "download_url": "https://i.pinimg.com/564x/d8/b1/c4/d8b1c4a62b80f8310aad578cf957f176.jpg"
+    }
+  ]
+}
